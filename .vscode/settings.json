@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "asgiref",
+        "cachetools",
+        "certifi",
+        "idna",
+        "protos",
+        "psycopg",
+        "pyasn",
+        "pyparsing",
+        "setuptools",
+        "sqlparse",
+        "uritemplate",
+        "urllib",
+        "whitenoise"
+    ]
+}
