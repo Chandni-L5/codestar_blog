@@ -4,6 +4,7 @@
         "cachetools",
         "certifi",
         "idna",
+        "ksfdl",
         "protos",
         "psycopg",
         "pyasn",
