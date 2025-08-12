@@ -3,6 +3,7 @@
         "asgiref",
         "cachetools",
         "certifi",
+        "egtl",
         "idna",
         "ksfdl",
         "protos",
