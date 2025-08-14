@@ -3,6 +3,7 @@
         "asgiref",
         "cachetools",
         "certifi",
+        "Chandni",
         "Codewars",
         "egtl",
         "forloop",
