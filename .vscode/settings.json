@@ -12,8 +12,10 @@
         "pyparsing",
         "setuptools",
         "sqlparse",
+        "summernote",
         "uritemplate",
         "urllib",
+        "webencodings",
         "whitenoise"
     ]
 }
