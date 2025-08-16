@@ -22,6 +22,7 @@ def post_detail(request, slug):
         {"post": post},
     )
 
+
 # Create your views here.
 class PostList(generic.ListView):
     queryset = Post.objects.filter(status=1)
