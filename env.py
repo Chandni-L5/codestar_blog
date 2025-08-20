@@ -9,3 +9,7 @@ os.environ.setdefault(
     "SECRET_KEY",
     "23jui=)5!!qw8&6h__@96(ec)7-4cy_9#8w^i=)e((egtl0285"
 )
+os.environ.setdefault(
+    "CLOUDINARY_URL",
+    "cloudinary://258663876617692:vqJ8r-KkbZhsbctFUH69yE7mAtI@dnzernmze"
+)
